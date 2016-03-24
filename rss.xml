@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[AdversarialArt]]></title>
+        <description><![CDATA[AdversarialArt]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 24 Mar 2016 17:35:58 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Robot Hospital]]></title>
+            <description><![CDATA[<article><h1>Robot Hospital</h1><p>Robots are the health care providers of the future.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/224d78a9-9908-4d8a-bb6a-18594749c439.jpg"></article>]]></description>
+            <link>undefinedrobot-hospital/index.html</link>
+            <guid isPermaLink="false">244b34b5-09a7-47fd-9439-76178689b855</guid>
+            <pubDate>Thu, 24 Mar 2016 17:35:57 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
